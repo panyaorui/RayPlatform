@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		713D9F481C62031B000917BC /* 文鼎细圆简.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 713D9F461C62031B000917BC /* 文鼎细圆简.TTF */; settings = {ASSET_TAGS = (); }; };
+		713D9F491C62031B000917BC /* 长城细圆体.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 713D9F471C62031B000917BC /* 长城细圆体.TTF */; settings = {ASSET_TAGS = (); }; };
 		717CDC5E1C5DA38000337DAB /* RayCircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717CDC5D1C5DA38000337DAB /* RayCircleImageView.swift */; settings = {ASSET_TAGS = (); }; };
 		717CDC681C5DA61D00337DAB /* SrcollImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717CDC661C5DA61D00337DAB /* SrcollImage.swift */; settings = {ASSET_TAGS = (); }; };
 		717CDC691C5DA61D00337DAB /* SrcollImage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 717CDC671C5DA61D00337DAB /* SrcollImage.xib */; settings = {ASSET_TAGS = (); }; };
@@ -51,6 +53,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		713D9F461C62031B000917BC /* 文鼎细圆简.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "文鼎细圆简.TTF"; path = "Resource/文鼎细圆简.TTF"; sourceTree = "<group>"; };
+		713D9F471C62031B000917BC /* 长城细圆体.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "长城细圆体.TTF"; path = "Resource/长城细圆体.TTF"; sourceTree = "<group>"; };
 		717CDC5D1C5DA38000337DAB /* RayCircleImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RayCircleImageView.swift; path = Widget/CirecleImageView/RayCircleImageView.swift; sourceTree = "<group>"; };
 		717CDC661C5DA61D00337DAB /* SrcollImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SrcollImage.swift; path = Widget/SrcollImage/SrcollImage.swift; sourceTree = "<group>"; };
 		717CDC671C5DA61D00337DAB /* SrcollImage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SrcollImage.xib; path = Widget/SrcollImage/SrcollImage.xib; sourceTree = "<group>"; };
@@ -198,6 +202,8 @@
 		7191126C1C54AA7900254348 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				713D9F461C62031B000917BC /* 文鼎细圆简.TTF */,
+				713D9F471C62031B000917BC /* 长城细圆体.TTF */,
 			);
 			name = Resource;
 			sourceTree = "<group>";
@@ -441,11 +447,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				717CDC701C5DA62B00337DAB /* PandDetailView.xib in Resources */,
+				713D9F491C62031B000917BC /* 长城细圆体.TTF in Resources */,
 				71C52EAA1C53BC1200CDF780 /* LaunchScreen.storyboard in Resources */,
 				717CDC731C5DA62B00337DAB /* PandTitleView.xib in Resources */,
 				71C52EA71C53BC1200CDF780 /* Assets.xcassets in Resources */,
 				717CDC691C5DA61D00337DAB /* SrcollImage.xib in Resources */,
 				71C52EA51C53BC1200CDF780 /* Main.storyboard in Resources */,
+				713D9F481C62031B000917BC /* 文鼎细圆简.TTF in Resources */,
 				7191125B1C5496DA00254348 /* MainViewController.xib in Resources */,
 				719112661C54973C00254348 /* MyViewController.xib in Resources */,
 			);
